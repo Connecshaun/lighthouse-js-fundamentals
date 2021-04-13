@@ -20,3 +20,5 @@ const returnSayHello = function (name) {
 const greeting = returnSayHello('John');
 console.log(greeting);
 
+//
+
